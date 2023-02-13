@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println(m1);
         System.out.println(m2);
-
+//change
         Dealer d1 = new Dealer(12312, "PACAuto", "Plamen", "Petkov");
         Dealer d2 = new Dealer(14356, "SATAuto", "Stanislav", "Todorov");
 
